@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @super-roomi
-- 🇮🇶 Web Developer based in Iraq
-- 👀 I’m interested in Web Development using React.js & TailwindCSS
-- 🌱 I’m currently learning React.js & React Native (and some Next.js)
+- 👋 Hi, I’m roomi
+- 🇮🇶 Based in Iraq
+- 👀 Software Engineer and creative
+- 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on projects that are mainly built with JavaScript and Specifically the React.js Library, though I'm open to discovering new tech
 - 📫 To reach me, you can contact me through @roomiisdead on instagram or roomiisdead@gmail.com through email
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have the cutest bird who wakes up every morning to abuse me
+- ⚡ Fun fact: my lovebird kiki abuses me every time I let him out of his cage :(
 
 <!---
 super-roomi/super-roomi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

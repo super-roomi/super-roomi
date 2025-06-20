@@ -1,7 +1,7 @@
 - 👋 Hi, I’m roomi
 - 🇮🇶 Based in Iraq
 - 👀 Software Engineer and creative
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning Node.js and some Rust on the side
 - 💞️ I’m looking to collaborate on projects that are mainly built with JavaScript and Specifically the React.js Library, though I'm open to discovering new tech
 - 📫 To reach me, you can contact me through @roomiisdead on instagram or roomiisdead@gmail.com through email
 - 😄 Pronouns: He/Him

@@ -2,7 +2,7 @@
 
 **` Software Engineer | Web Developer `**
 ## About me
-I'm a Software Engineer & Full-Stack Web Developer. Most of my personal projects are centered around automating tedious and repetitive tasks. I love home labs and also own my own home server! I'm geared more towards web-based projects but I'm still digging into projects that include mobile and low-level systems coded in languages such as Rust, C++, and Java.
+I'm a Software Engineer & Full-Stack Web Developer. Most of my personal projects are centered around automating tedious and repetitive tasks. I love home labs and also own my personal Linux home server! I'm geared more towards web-based projects but I'm still digging into projects that include mobile and low-level systems coded in languages such as Rust, C++, and Java.
 ## Tools
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original-wordmark.svg" />

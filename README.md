@@ -1,8 +1,8 @@
-# 👨‍💻 Karam Hassanin
+# Karam Hassanin
 
 **` Software Engineer | Web Developer `**
 ## About me
-I'm a Software Engineer & Full-Stack Web Developer. Most of my personal projects are centered around automating tedious and repetitive tasks. I love home labs and also own my personal Linux home server! I'm geared more towards mobile-based projects but I'm still digging into projects that include low-level systems coded in languages such as C and C++.
+I'm a Software Engineer. Most of my personal projects are centered around automating tedious and repetitive tasks. I love home labs and also own my personal Linux home server! I'm geared more towards mobile-based projects but I'm still digging into projects that include low-level systems coded in languages such as C and C++.
 ## Tools
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />

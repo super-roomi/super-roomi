@@ -1,6 +1,6 @@
 # Karam Hassanin
 
-**` Software Engineer | Web Developer `**
+**` Software Engineer `**
 ## About me
 I'm a Software Engineer. Most of my personal projects are centered around automating tedious and repetitive tasks. I love home labs and also own my personal Linux home server! I'm geared more towards mobile-based projects but I'm still digging into projects that include low-level systems coded in languages such as C and C++.
 ## Tools
